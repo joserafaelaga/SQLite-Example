@@ -1,2 +1,2 @@
 # SQLite-Example
-Ejemplo de SQLite
+Ejemplo de SQLite (Android)
